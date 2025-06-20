@@ -1,0 +1,131 @@
+130 NCAP Cities,Latitude,Longitude,State,Country
+Anantapur,14.6824455,77.6017089,Andhra Pradesh,India
+Chitoor,13.4787911,78.8382644,Andhra Pradesh,India
+Eluru,16.7106604,81.0952431,Andhra Pradesh,India
+Guntur,16.3066525,80.4365402,Andhra Pradesh,India
+Kadapa,14.4673154,78.8242089,Andhra Pradesh,India
+Kurnool,15.8281257,78.0372792,Andhra Pradesh,India
+Nellore,14.4425987,79.986456,Andhra Pradesh,India
+Ongole,15.5057232,80.049922,Andhra Pradesh,India
+Rajahmundry,17.0005383,81.8040345,Andhra Pradesh,India
+Srikakulam,18.2949165,83.8938018,Andhra Pradesh,India
+Vijayawada,16.5061743,80.6480153,Andhra Pradesh,India
+Vishakhapatnam,17.6868159,83.2184815,Andhra Pradesh,India
+Vizianagaram,18.1066576,83.3955506,Andhra Pradesh,India
+Guwahati,26.1157917,91.7085933,Assam,India
+Nagaon,26.348009,92.6838111,Assam,India
+Nalbari,26.4446185,91.4410527,Assam,India
+Sibsagar,26.989087,94.639424,Assam,India
+Silchar,24.8332708,92.7789054,Assam,India
+Gaya,24.7913957,85.0002336,Bihar,India
+Muzzafarpur,26.1196607,85.390982,Bihar,India
+Patna,25.5940947,85.1375645,Bihar,India
+Chandigarh,30.7333148,76.7794179,Chandigarh,India
+Bhilai,21.1938475,81.3509416,Chhattisgarh,India
+Korba,22.3594501,82.7500595,Chhattisgarh,India
+Raipur,21.2513844,81.6296413,Chhattisgarh,India
+Delhi,28.6139298,77.2088282,Delhi,India
+Ahmedabad,23.022505,72.5713621,Gujart,India
+Rajkot,22.3038945,70.8021599,Gujart,India
+Surat,21.1702401,72.8310607,Gujart,India
+Vadodara,22.3071588,73.1812187,Gujart,India
+Faridabad,28.4089123,77.3177894,Haryana,India
+Baddi,30.9578258,76.7913558,Himachal Pradesh,India
+Damtal,32.2257526,75.660084,Himachal Pradesh,India
+Kala Amb,30.4992306,77.2070259,Himachal Pradesh,India
+Nalagarh,31.0460685,76.7025709,Himachal Pradesh,India
+Paonta Sahib,30.445283,77.6020569,Himachal Pradesh,India
+Parwanoo,30.8405752,76.9583881,Himachal Pradesh,India
+Sunder Nagar,31.5299004,76.888941,Himachal Pradesh,India
+Jammu,32.7266016,74.8570259,Jammu & Kashmir,India
+Srinagar,34.0836708,74.7972825,Jammu & Kashmir,India
+Dhanbad,23.7956531,86.4303859,Jharkhand,India
+Jamshedpur,22.8045665,86.2028754,Jharkhand,India
+Ranchi,23.3440997,85.309562,Jharkhand,India
+Bangalore,12.9715987,77.5945627,Karnataka,India
+Devanagere,14.4644085,75.921758,Karnataka,India
+Gulbrga,17.329731,76.8342957,Karnataka,India
+Hubli-Dharwad,15.3647083,75.1239547,Karnataka,India
+Bhopal,23.2599333,77.412615,Madhya Pradesh,India
+Dewas,22.9675929,76.0534454,Madhya Pradesh,India
+Gwalior,26.2124007,78.1772053,Madhya Pradesh,India
+Indore,22.7195687,75.8577258,Madhya Pradesh,India
+Jabalpur,23.1685786,79.9338798,Madhya Pradesh,India
+Sagar,23.838805,78.7378068,Madhya Pradesh,India
+Ujjain,23.1764665,75.7885163,Madhya Pradesh,India
+Akola,20.7002159,77.0081678,Maharashtra,India
+Amaravati,20.9319821,77.7523039,Maharashtra,India
+Aurangabad,19.875754,75.3393195,Maharashtra,India
+Badlapore,19.1667854,73.2367896,Maharashtra,India
+Chandrapur,19.9615398,79.2961468,Maharashtra,India
+Jalgaon,21.0076578,75.5626039,Maharashtra,India
+Jalna,19.8346659,75.8816345,Maharashtra,India
+Kolhapur,16.7049873,74.2432527,Maharashtra,India
+Latur,18.4087934,76.5603828,Maharashtra,India
+Mumbai,19.0759837,72.8776559,Maharashtra,India
+Nagpur,21.1458004,79.0881546,Maharashtra,India
+Nashik,19.9974533,73.7898023,Maharashtra,India
+Navi Mumbai,19.0330488,73.0296625,Maharashtra,India
+Pune,18.5204303,73.8567437,Maharashtra,India
+Sangli,16.8523973,74.5814773,Maharashtra,India
+Solapur,17.6599188,75.9063906,Maharashtra,India
+Thane,19.2183307,72.9780897,Maharashtra,India
+Ulhas Nagar,19.2215115,73.1644628,Maharashtra,India
+Vasai Virar,19.3919275,72.8397317,Maharashtra,India
+Byrnihat,26.0515133,91.8696411,Meghalaya,India
+Dimapur,25.9091406,93.7265605,Nagaland,India
+Kohima,25.6751129,94.1085998,Nagaland,India
+Angul,20.8404122,85.1028982,Odhisha,India
+Balasore,21.4933578,86.9134794,Odhisha,India
+Bhubaneshwar,20.2959847,85.8246101,Odhisha,India
+Cuttack,20.462521,85.8829895,Odhisha,India
+Kalinga Nagar,20.270059,85.7590851,Odhisha,India
+Rourkela,22.260423,84.8535844,Odhisha,India
+Talcher,20.9501027,85.216816,Odhisha,India
+Amritsar,31.6339793,74.8722642,Punjab,India
+Dera Bassi,30.5886835,76.8470955,Punjab,India
+Gobindgarh,30.664228,76.2913905,Punjab,India
+Jalandhar,31.3260152,75.5761829,Punjab,India
+Khanna,30.7070769,76.2169907,Punjab,India
+Ludhiana,30.900965,75.8572758,Punjab,India
+Naya Nangal,31.3866405,76.3550457,Punjab,India
+Pathankot/Dera Baba,32.2733352,75.6522066,Punjab,India
+Patiala,30.3397809,76.3868797,Punjab,India
+Alwar,27.5529907,76.6345735,Rajasthan,India
+Jaipur,26.9124336,75.7872709,Rajasthan,India
+Jodhpur,26.2389469,73.0243094,Rajasthan,India
+Kota,25.2138156,75.8647527,Rajasthan,India
+Udaipur,24.585445,73.712479,Rajasthan,India
+Chennai,13.0843007,80.2704622,Tamil Nadu,India
+Madurai,9.9252007,78.1197754,Tamil Nadu,India
+Thoothukudi,8.7641661,78.1348361,Tamil Nadu,India
+Trichy,10.7904833,78.7046725,Tamil Nadu,India
+Hyderabad,17.406498,78.4772439,Telangana,India
+Nalgonda,17.0577054,79.2683623,Telangana,India
+Sangareddy,17.6075232,78.0798191,Telangana,India
+Agra,27.1766701,78.0080745,Uttar Pradesh,India
+Allahabad,25.4358011,81.846311,Uttar Pradesh,India
+Anpara,24.2048772,82.7832489,Uttar Pradesh,India
+Bareily,28.3670355,79.4304381,Uttar Pradesh,India
+Firozabad,27.1591961,78.3957331,Uttar Pradesh,India
+Gajraula,28.8381644,78.2421812,Uttar Pradesh,India
+Ghaziabad,28.6691565,77.4537578,Uttar Pradesh,India
+Gorakhpur,26.7605545,83.3731675,Uttar Pradesh,India
+Jhansi,25.4487699,78.5697526,Uttar Pradesh,India
+Kanpur,26.449923,80.3318736,Uttar Pradesh,India
+Khurja,28.2489801,77.854903,Uttar Pradesh,India
+Lucknow,26.8466937,80.946166,Uttar Pradesh,India
+Meerut,28.9844618,77.7064137,Uttar Pradesh,India
+Moradabad,28.8386481,78.7733286,Uttar Pradesh,India
+Noida,28.5355161,77.3910265,Uttar Pradesh,India
+Raebareli,26.2144806,81.2528139,Uttar Pradesh,India
+Varansi,25.3176452,82.9739144,Uttar Pradesh,India
+Dehradun,30.3164945,78.0321918,Uttarakhand,India
+Kashipur,29.2104232,78.9618845,Uttarakhand,India
+Rishikesh,30.1157619,78.2853017,Uttarakhand,India
+Asanol,23.6888636,86.9660638,West Bengal,India
+Barrackpore,22.766117,88.3515562,West Bengal,India
+Durgapur,23.5204443,87.3119227,West Bengal,India
+Haldia,22.0627164,88.0832934,West Bengal,India
+Howrah,22.5957689,88.2636394,West Bengal,India
+Kolkata,22.5743545,88.3628734,West Bengal,India
